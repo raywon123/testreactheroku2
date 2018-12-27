@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Pensive Face",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Noto_Emoji_KitKat_1f614.svg"
+  },
+  {
+    "id": 2,
+    "name": "Grinning Face",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Emoji_u1f605.svg"
+  },
+  {
+    "id": 3,
+    "name": "Kissing Face",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Noto_Emoji_Oreo_1f619.svg"
+  },
+  {
+    "id": 4,
+    "name": "Beaming Face",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Emoji_u1f601.svg"
+  },
+  {
+    "id": 5,
+    "name": "Savoring Food",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Noto_Emoji_Oreo_1f60b.svg"
+  },
+  {
+    "id": 6,
+    "name": "Sunglasses",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Noto_Emoji_KitKat_1f60e.svg"
+  },
+  {
+    "id": 7,
+    "name": "Tears of Joy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Noto_Emoji_Oreo_1f602.svg"
+  },
+  {
+    "id": 8,
+    "name": "Heart-eyes",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Emojione1_1F60D.svg"
+  },
+  {
+    "id": 9,
+    "name": "Hugging Face",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Noto_Emoji_Oreo_1f917.svg"
+  },
+  {
+    "id": 10,
+    "name": "Rolling Eyes",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Noto_Emoji_Oreo_1f644.svg"
+  },
+  {
+    "id": 11,
+    "name": "Nerd Face",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Noto_Emoji_Oreo_1f913.svg"
+  },
+  {
+    "id": 12,
+    "name": "Tired Face",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Noto_Emoji_KitKat_1f62b.svg"
+  }
+]
